@@ -5,5 +5,4 @@ AirCnC (Air Code and Coffee) is an App similar to AirBnB where developers can bo
 ## Used technologies
 
 - React
-- React Native
 - Node.js
